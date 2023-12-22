@@ -19,3 +19,13 @@ for (let i = 0; i < totElements; i++) {
 }
 
 console.log(element);
+
+
+
+// Stampo gli ultimi 5 elementi dell'array
+const lastFive = [element[element.length - 5],
+element[element.length - 4],
+element[element.length - 3], 
+element[element.length - 2], 
+element[element.length - 1], ];
+console.log(lastFive);
