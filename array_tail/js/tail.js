@@ -4,3 +4,6 @@ console.log(totElements);
 
 // Creare l'array
 const element = [];
+
+// Creo una variabile d'appoggio
+let numberElement = 0;
