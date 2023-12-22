@@ -30,3 +30,20 @@ Cartella: array_bonus
 Crea due array che hanno un numero di elementi diversi.
 Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
 Buon lavoro e buon Natale!
+
+
+
+# SCALETTA - ESERCIZIO ARRAY-LISTA
+
+1. Creare un array
+2. Aggiungere la pesca all'array della frutta
+3. Verificare se c'è il cocomero
+
+
+
+
+# SCALETTA - ESERCIZIO ARRAY-TAIL
+1. Chiedere all'utente quanti elementi massimo dovrà contenere l'array
+2. Creare l'array 
+3. Generare tot numeri casuali da inserire nell'array
+4. Stampiamo gli ultimi 5 elementi
